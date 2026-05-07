@@ -2,7 +2,7 @@ name: 01-building-blocks.yaml
 
 on:
   push
-  workflow_dipstach:
+  workflow_dipstach
 
 jobs:
   echo-hello:
